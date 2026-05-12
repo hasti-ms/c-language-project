@@ -17,3 +17,10 @@ int main()
 	float gs = bs+hra+da+ta;
 	printf("your gross salary:%.2f",gs);
 }
+/*
+enter base salary:100
+enter HRA:10
+enter DA:5
+enter TA:8
+your gross salary:123.00
+*/
